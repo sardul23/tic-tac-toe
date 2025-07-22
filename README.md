@@ -1,1 +1,1 @@
-# tic-tac-toe made with the help of javascript
+Tic-Tac-Toe Game using html css & Js
